@@ -44,4 +44,23 @@ color: #151414;
 .plans-div{
     display: flex;
     justify-content: space-evenly;
+    /* gap: 10px; */
+}
+/* Awlays keep a positive mindset-section-style */
+.positive-mindset{
+    background-image: url("../imgsf/watch.png");
+  background-repeat: no-repeat;
+
+margin: auto;
+  margin-left: 22%;
+  margin-bottom: 130px;
+}
+/* footer-start-style */
+footer{}
+.footer-div{
+    display: flex;
+    background-color: #151414;
+    color: #FFFFFF;
+    justify-content: space-around;
+    padding-bottom: 130px;
 }

@@ -32,3 +32,16 @@ line-height: 76px;
     justify-content: space-evenly;
 }
 
+/* end-sec-section-style */
+/* ----My Plans-section-start */
+#plans-txt{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414; 
+}
+.plans-div{
+    display: flex;
+    justify-content: space-evenly;
+}

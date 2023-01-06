@@ -3,7 +3,7 @@ body{
   background-image: url("../imgsf/bannar/banner3.png");
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
-  background-size: 100% 100%;
+  background-size:100%;
 }
 /* first-section-style */
 /* All Thinks Are Possible If You believe */
@@ -15,6 +15,7 @@ font-size: 65px;
 line-height: 76px;
     text-align: right;
     color: #FFFFFF;
+    margin-bottom: 130px;
     
 }
 .first-section-pclass{
@@ -25,3 +26,9 @@ line-height: 76px;
 }
 /* end-first-section */
 /* <!-- Second-section-start --> */
+.sec-section-style{
+    padding-top: 330px;
+    display: flex;
+    justify-content: space-evenly;
+}
+

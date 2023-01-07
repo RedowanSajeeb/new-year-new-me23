@@ -64,21 +64,50 @@ body{
 }
 
 /* end-sec-section-style */
-
-/* Quotes About Fear of Failure */
 .failurText{
     
     color: #151414;
     font-weight: 700;
     font-size: 50px;
-    line-height: 47px;
-    
+    line-height: 47px; 
+}
+#failurides-img{
+    margin-left: 206px;
 }
 .pText{
     color: #444343;
     font-size: 16px;
 line-height: 26px;
 width: 416px;
+}
+/* Quotes About Fear of Failure */
+.iframe-youtube{
+display: ;
+}
+.quotes-text{
+    display: flex;
+}
+/* ---- */
+.Quotes-About-text{
+    font-weight: 700;
+font-size: 18px;
+color: #151414; 
+color: #000813;
+
+}
+figure{
+    background: #aad9ff;
+    padding: 12px;
+    /* box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2); */
+    box-shadow: inset 0 -3em 3em rgba(0, 121, 235, 0.1), 0 0 0 2px rgb(8, 42, 75),
+    0.3em 0.3em 1em rgba(0, 4, 8, 0.3);
+    border-radius: 50px 20px;
+}
+.quotes-section{
+padding-top: 150px;
+
+
+
 }
 .icon-quotes{
     display: flex;
@@ -97,9 +126,11 @@ width: 416px;
 #plans-txt{
     text-align: center;
     font-weight: 700;
-font-size: 40px;
-line-height: 47px;
-color: #151414; 
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414; 
+    padding-top: 130px;
+    padding-bottom: 50px;
 
 }
 .ilst-itams{
@@ -108,17 +139,77 @@ color: #151414;
 .plans-div{
     display: flex;
     justify-content: space-evenly;
-    /* gap: 10px; */
+      
 }
+.plans-div h1{
+height: 35px;
+left: 599px;
+top: 2006px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
 
+/* Dark 01 */
+
+color: #151414;
+
+}
+.plans-div img{
+margin-left: 50px;
+left: 294px;
+top: 1895px;
+
+}
+h4{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 25px;
+text-align: center;
+
+/* Dark 03 */
+
+color: #737272;
+
+}
 /* Awlays keep a positive mindset-section-style */
 .positive-mindset{
-    background-image: url("../imgsf/watch.png");
+   
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),
+     url("../imgsf/watch.png");
   background-repeat: no-repeat;
 
 margin: auto;
   margin-left: 22%;
   margin-bottom: 130px;
+  border-radius: 8px;
+  
+}
+.positive-mindset h1{
+    width: 459px;
+    height: 94px;
+padding-top: 60px;
+padding-left: 65px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF;
+}
+#mindset-btn{
+    margin-bottom: 190px;
+    margin-left: 70px;
+    margin-top: -900px;
 }
 /* footer-start-style */
 footer{}

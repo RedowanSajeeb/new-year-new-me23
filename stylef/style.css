@@ -1,9 +1,8 @@
-
 body{
-  background-image: url("../imgsf/bannar/banner3.png");
-  background-repeat: no-repeat;
+    background-image: url("../imgsf/bannar/banner3.png");
+    background-repeat: no-repeat;
   /* background-attachment: fixed; */
-  background-size:100%;
+    background-size:100%;
 }
 /* first-section-style */
 /* All Thinks Are Possible If You believe */
@@ -68,12 +67,12 @@ body{
 .pText{
     color: #444343;
     font-size: 16px;
-line-height: 26px;
-width: 416px;
+    line-height: 26px;
+    width: 416px;
 }
 /* Quotes About Fear of Failure */
 .iframe-youtube{
-display: ;
+    /* display: ; */
 }
 .quotes-text{
     display: flex;
@@ -81,9 +80,9 @@ display: ;
 /* ---- */
 .Quotes-About-text{
     font-weight: 700;
-font-size: 18px;
-color: #151414; 
-color: #000813;
+    font-size: 18px;
+    color: #151414; 
+    color: #000813;
 }
 figure{
     background: #aad9ff;
@@ -94,10 +93,10 @@ figure{
     border-radius: 50px 20px;
 }
 .quotes-section{
-padding-top: 150px;
+        padding-top: 150px;
 }
 .icon-quotes{
-    display: flex;
+        display: flex;
         align-items: center;
         justify-content: center
 }
@@ -124,56 +123,56 @@ padding-top: 150px;
     justify-content: space-evenly;   
 }
 .plans-div h1{
-height: 35px;
-left: 599px;
-top: 2006px;
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 35px;
-text-align: center;
+    height: 35px;
+    left: 599px;
+    top: 2006px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
 /* Dark 01 */
 color: #151414;
 }
 .plans-div img{
-margin-left: 50px;
-left: 294px;
-top: 1895px;
+    margin-left: 50px;
+    left: 294px;
+    top: 1895px;
 }
 h4{
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 500;
-font-size: 25px;
-line-height: 25px;
-text-align: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
 /* Dark 03 */
 color: #737272;
 }
 /* Awlays keep a positive mindset-section-style */
 .positive-mindset{ 
-width: 1140px;
-height: 300px;
-left: 230px;
-top: 2221.96px;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
     background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),
      url("../imgsf/watch.png");
-  background-repeat: no-repeat;
-margin: auto;
-  margin-left: 22%;
-  margin-bottom: 130px;
-  border-radius: 8px;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-left: 20%;
+    margin-bottom: 130px;
+    border-radius: 8px;
 }
 .positive-mindset h1{
-padding-top: 60px;
-padding-left: 65px;
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 47px;
-color: #FFFFFF;
+    padding-top: 60px;
+    padding-left: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
 }
 #mindset-btn{
     margin-bottom: 190px;
@@ -193,17 +192,17 @@ footer h1{
 }
 footer small{
     font-family: 'Work Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px
 }
 .footer-div{
     display: flex;
     background-color: #151414;
     color: #FFFFFF;
     justify-content: space-around;
-   padding-bottom: 130px; 
+    padding-bottom: 130px; 
 }
 /* div-btn-style */
 footer button{  

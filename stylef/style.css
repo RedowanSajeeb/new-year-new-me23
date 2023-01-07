@@ -18,20 +18,14 @@ body{
     margin-bottom: 130px;
     padding-right: 150px;
     padding-top: 150px;
-
-    
-    
 }
 .first-section-pclass{
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
     margin-top: -40px;
-    
-    
 }
 /* btn-style */
-
 .button-a {
     background-color: rgb(255, 255, 255); 
     color: black; 
@@ -48,12 +42,10 @@ body{
     cursor: pointer;
     border-radius: 5px;
   }
-  
   .button-a:hover {
     background-color: #008CBA;
     color: white;
   } 
-
 /* end-first-section */
 /* <!-- Second-section-start --> */
 .sec-section-style{
@@ -62,7 +54,6 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-
 /* end-sec-section-style */
 .failurText{
     
@@ -93,7 +84,6 @@ display: ;
 font-size: 18px;
 color: #151414; 
 color: #000813;
-
 }
 figure{
     background: #aad9ff;
@@ -105,9 +95,6 @@ figure{
 }
 .quotes-section{
 padding-top: 150px;
-
-
-
 }
 .icon-quotes{
     display: flex;
@@ -119,9 +106,6 @@ padding-top: 150px;
     align-items: center;
     justify-content: space-evenly;
 }
-
-
-
 /* ----My Plans-section-start */
 #plans-txt{
     text-align: center;
@@ -131,15 +115,13 @@ padding-top: 150px;
     color: #151414; 
     padding-top: 130px;
     padding-bottom: 50px;
-
 }
 .ilst-itams{
     list-style: none;
 }
 .plans-div{
     display: flex;
-    justify-content: space-evenly;
-      
+    justify-content: space-evenly;   
 }
 .plans-div h1{
 height: 35px;
@@ -151,17 +133,13 @@ font-weight: 700;
 font-size: 30px;
 line-height: 35px;
 text-align: center;
-
 /* Dark 01 */
-
 color: #151414;
-
 }
 .plans-div img{
 margin-left: 50px;
 left: 294px;
 top: 1895px;
-
 }
 h4{
 font-family: 'Work Sans';
@@ -170,33 +148,24 @@ font-weight: 500;
 font-size: 25px;
 line-height: 25px;
 text-align: center;
-
 /* Dark 03 */
-
 color: #737272;
-
 }
 /* Awlays keep a positive mindset-section-style */
-.positive-mindset{
-   
+.positive-mindset{ 
 width: 1140px;
 height: 300px;
 left: 230px;
 top: 2221.96px;
-
     background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),
      url("../imgsf/watch.png");
   background-repeat: no-repeat;
-
 margin: auto;
   margin-left: 22%;
   margin-bottom: 130px;
   border-radius: 8px;
-  
 }
 .positive-mindset h1{
-    width: 459px;
-    height: 94px;
 padding-top: 60px;
 padding-left: 65px;
 font-family: 'Work Sans';
@@ -209,7 +178,7 @@ color: #FFFFFF;
 #mindset-btn{
     margin-bottom: 190px;
     margin-left: 70px;
-    margin-top: -900px;
+    margin-top: 900px;
 }
 /* footer-start-style */
 footer{
@@ -234,13 +203,10 @@ line-height: 26px
     background-color: #151414;
     color: #FFFFFF;
     justify-content: space-around;
-   padding-bottom: 130px;
-    
-    
+   padding-bottom: 130px; 
 }
 /* div-btn-style */
-footer button{
-    
+footer button{  
 }
 #lest-btn{
     padding: 10px;
@@ -253,13 +219,9 @@ footer button{
 input{
     color: color: #F3F3F3;
     line-height: 21px;
-
 }
 .icons-footer{
     font-size: 2em;
-    padding-top: 32px;
-    
-    
+    padding-top: 32px;  
 }
-
 /* ---------------END---------------------------- */

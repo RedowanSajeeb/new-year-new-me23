@@ -50,8 +50,9 @@ body{
 .sec-section-style{
     padding-top: 330px;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    /* align-items: center; */
 }
 /* end-sec-section-style */
 .failurText{

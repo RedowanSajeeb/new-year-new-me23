@@ -121,7 +121,9 @@ figure{
 }
 .plans-div{
     display: flex;
-    justify-content: space-evenly;   
+    /* justify-content: space-evenly;    */
+    justify-content: center;
+    gap: 100px;
 }
 .plans-div h1{
     height: 35px;
